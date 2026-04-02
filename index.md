@@ -2,7 +2,7 @@
 
 My name is **Bekzhan Yessengeldy**
 
-I am a Computer Science student at UCSD and a D1 [swimmer](#swimming) on the UCSD swim team. 
+I am a Computer Science student at UCSD and a D1 [swimmer](#swimming) on the UCSD swim team. I was born in [Almaty, Kazakhstan](Almaty.jpg), and I have lived in California for 16 years. 
 
 ## Coding
 I have been coding since I was elemetary school, starting with coding mods for minecraft. From there, my interest developed through high school, and eventually led me to majoring computer science in college. My favorite git command is `git push` because it is satisfying to upload your work.
@@ -32,7 +32,7 @@ Here is a list of the cool things I do, and used to do:
 
 ![A photo of me swimming the 200 Breast at a dual meet against USC](https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fucsdtritons.com%2Fimages%2F2026%2F1%2F16%2FBekzhanYessengeldy.jpg&type=webp)
 
-Here is is a photo of my home town - [Almaty, Kazakhstan](Almaty.jpg)
+
 
 
 
